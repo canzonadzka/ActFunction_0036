@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+// Variabel global untuk Luas Persegi
+int panjang, lebar;
+
+// Variabel global untuk Luas Lingkaran
+float r;
+float phi = 3.14159;
